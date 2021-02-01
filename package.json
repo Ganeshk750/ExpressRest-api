@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ganeshk750/Loans-api.git"
+    "url": "git+https://github.com/Ganeshk750/ExpressRest-api.git"
   },
   "keywords": [
     "MEAN"
@@ -16,7 +16,7 @@
   "author": "ganeshk750",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ganeshk750/Loans-api/issues"
+    "url": "https://github.com/Ganeshk750/ExpressRest-api/issues"
   },
-  "homepage": "https://github.com/Ganeshk750/Loans-api#readme"
+  "homepage": "https://github.com/Ganeshk750/ExpressRest-api#readme"
 }
